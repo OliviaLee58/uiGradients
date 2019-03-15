@@ -1,5 +1,13 @@
 [
     {
+        …
+    },
+    {
+      "name": "Career",
+      "colors": ["#44B3D6", "#ffaf50"]
+    }
+][
+    {
         "name": "Blu",
         "colors": ["#00416A", "#E4E5E6"]
     },
